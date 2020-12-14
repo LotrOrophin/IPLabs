@@ -42,3 +42,6 @@ span{
     bottom: 0; 
     position: absolute;
 }
+.btn.btn-outline-success.my-2.my-sm-0.mybutton{
+    padding-right:55px;
+}
