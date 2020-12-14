@@ -1,0 +1,44 @@
+.search-head{
+    display: block;
+    font-size: 25px;
+    padding: 20px;
+}
+.form-inline{
+    padding-left: 30px;
+    
+}
+.form-control.mr-sm-2{
+    width: 70%;
+}
+.btn.btn-outline-success.my-2.my-sm-0{
+    width: 20%;
+}
+span{
+    padding-right: 30px;
+}
+.register-head{
+    display: block;
+    font-size: 25px;
+    padding: 20px;
+}
+.index-head{
+    display: block;
+    font-size: large;
+}
+.row{
+    padding: 40px;
+}
+.col-sum.regform{
+    width: 30%;
+}
+.col-sum.picture{
+    width: 70%;
+}
+.reg-picture{
+    padding: 40px; 
+    width: 50%;
+}
+.btn.btn-primary{
+    bottom: 0; 
+    position: absolute;
+}
